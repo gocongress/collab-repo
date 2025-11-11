@@ -22,8 +22,8 @@ Create a new issue when:
 
 Give it a clear title, a short description of what should be discussed, and fitting label(s). Labels help categorize issues. If you are unsure which label(s) to pick, leave it unlabeled and someone will help.
 
-Shared documents or summaries referenced in issues can be linked directly in the issue thread. Use cloud links (e.g. public Google Doc links) rather than uploading personal files.
+Shared documents or summaries referenced in issues can be linked directly in the issue thread. Use cloud links (for example, public Google Doc links) rather than uploading personal files.
 
 ### More Information
 
-For more information about using GitHub Issues, check out the official [Quickstart For GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) guide (estimated reading time is about 10 minutes).
+For more details on using GitHub Issues, see the official [Quickstart For GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) guide (estimated reading time ~10 minutes).
