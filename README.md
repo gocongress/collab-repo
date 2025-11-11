@@ -1,6 +1,6 @@
 # Collaboration Repository
 
-This repository is used for coordination between the US Go Congress and international Congress teams. The main purpose of this repo is **issue-based discussion and task coordination**. There is no code in this repo.
+This repository is the public collaboration hub for the US Go Congress. It supports discussion and task coordination among members of the USGC team and external partners, including international Congress organizers. The primary function of this repo is **issue-based discussion and task coordination**. There is no code in this repo.
 
 ## New To GitHub? Here Is a Guide on How to Use This Repo
 
