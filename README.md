@@ -1,0 +1,25 @@
+# Collaboration Repository
+
+This repository is used for coordination between the US Go Congress and international Congress teams. The main purpose of this repo is **issue-based discussion and task coordination**. There is no code in this repo.
+
+## New To GitHub? Here Is a Guide on How to Use This Repo
+
+### 1. Check Existing Issues
+
+Go to the **[Issues](https://github.com/gocongress/collab-repo/issues)** tab to see ongoing discussions. Each issue represents a topic or task.
+
+### 2. Comment in an Issue
+
+If you have input on an existing topic, open the issue and add your comment. This keeps conversation organized instead of spreading across emails or chats.
+
+### 3. Create a New Issue
+
+Create a new issue when:
+
+* You want to propose a new idea
+* You need clarification on a topic
+* You want to document a meeting outcome or task
+
+Give it a clear title, a short description of what should be discussed, and fitting label(s). Labels help categorize issues. If you are unsure which label(s) to pick, leave it unlabeled and someone will help.
+
+Shared documents or summaries referenced in issues can be linked directly in the issue thread. Use cloud links (e.g. public Google Doc links) rather than uploading personal files.
