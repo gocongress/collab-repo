@@ -1,6 +1,6 @@
 # Collaboration Repository
 
-This repository is the public collaboration hub for the US Go Congress. It supports discussion and task coordination among members of the USGC team and external partners, including international Congress organizers. The primary function of this repo is **issue-based discussion and task coordination**. There is no code in this repo.
+This repository is the public collaboration hub for the US Go Congress. It supports discussion and task coordination among members of the USGC team and external partners, including international Congress organizers. The primary function of this repo is to facilitate **issue-based discussion and task coordination**.
 
 ## New To GitHub? Here Is a Guide on How to Use This Repo
 
@@ -12,9 +12,9 @@ Go to the **[Issues](https://github.com/gocongress/collab-repo/issues)** tab to 
 
 If you have input on an existing topic, open the issue and add your comment. This keeps conversation organized instead of spreading across emails or chats.
 
-### 3. Create a New Issue
+### 3. [Create a New Issue](https://github.com/gocongress/collab-repo/issues/new/choose)
 
-Create a new issue when:
+[Create a new issue](https://github.com/gocongress/collab-repo/issues/new/choose) when:
 
 * You want to propose a new idea
 * You need clarification on a topic
