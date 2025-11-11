@@ -26,4 +26,4 @@ Shared documents or summaries referenced in issues can be linked directly in the
 
 ### More Information
 
-For more information about using GitHub Issues, check out the official quickstart guide (estimated reading time is about 10 minutes): [Quickstart For GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart)
+For more information about using GitHub Issues, check out the official [Quickstart For GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) guide (estimated reading time is about 10 minutes).
